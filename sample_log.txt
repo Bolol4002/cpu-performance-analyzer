@@ -1,0 +1,9 @@
+[0] ADD executed | cycle 1
+[1] LOAD executed | cycle 3
+[2] STALL | cycle 4
+[3] MUL executed | cycle 7
+[4] ADD executed | cycle 9
+[5] STALL | cycle 10
+[6] SUB executed | cycle 12
+[7] ADD executed | cycle 15
+
